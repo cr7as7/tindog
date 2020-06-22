@@ -1,0 +1,2 @@
+# tindog
+First bootstrap project
